@@ -1,0 +1,7 @@
+C:\Users\ddine\Desktop\Boot Camp Scalefocus\Abstract Data Types and Algorythms\bin\Debug\Abstract Data Types and Algorythms.exe.config
+C:\Users\ddine\Desktop\Boot Camp Scalefocus\Abstract Data Types and Algorythms\bin\Debug\Abstract Data Types and Algorythms.exe
+C:\Users\ddine\Desktop\Boot Camp Scalefocus\Abstract Data Types and Algorythms\bin\Debug\Abstract Data Types and Algorythms.pdb
+C:\Users\ddine\Desktop\Boot Camp Scalefocus\Abstract Data Types and Algorythms\obj\Debug\Abstract Data Types and Algorythms.csprojResolveAssemblyReference.cache
+C:\Users\ddine\Desktop\Boot Camp Scalefocus\Abstract Data Types and Algorythms\obj\Debug\Abstract Data Types and Algorythms.csproj.CoreCompileInputs.cache
+C:\Users\ddine\Desktop\Boot Camp Scalefocus\Abstract Data Types and Algorythms\obj\Debug\Abstract Data Types and Algorythms.exe
+C:\Users\ddine\Desktop\Boot Camp Scalefocus\Abstract Data Types and Algorythms\obj\Debug\Abstract Data Types and Algorythms.pdb
